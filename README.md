@@ -3,14 +3,16 @@
 
 Papers you must read
 
-| Authors (et al.)  | Title (Link to download)                                                                     | Year |
-| :---------------: | :------------------------------------------------------------------------------------------: | :--: |
-| Neumann           | [Efficient compiling query plans for modern hardware][Neumann12]                             | 2012 |
-| Dursun            | [SiliconDB][SiliconDB]: rethinking DBMSs for modern heterogeneous co-processor environments  | 2017 |
-| ...               | ...                                                                                          | .... |
+| Authors (et al.)  | Title (Link to download)                                                       | Venue      | Link               |
+| :---------------- | :----------------------------------------------------------------------------- | :--------- | :----------------- |
+| Neumann           | Efficient compiling query plans for modern hardware                            | PVLDB'12   | [link][Neumann12]  |
+| Dursun            | SiliconDB: rethinking DBMSs for modern heterogeneous co-processor environments | DAMON'17   | [link][SiliconDB]  |
+| Mitschke          | i3QL: Language-Integrated Live Data Views                                      | OOPSLA'14  | [link][i3QL]       |
+| ...               | ...                                                                            | ...        | ...                |
 
 [Neumann12]: https://dl.acm.org/citation.cfm?id=2002940
 [SiliconDB]: https://dl.acm.org/citation.cfm?id=3076124
+[i3QL]: https://dl.acm.org/citation.cfm?id=2660242
 
 ## Research Fields
 
