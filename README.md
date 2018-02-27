@@ -12,33 +12,28 @@ Papers you must read
 
 [Neumann12]: https://dl.acm.org/citation.cfm?id=2002940
 [SiliconDB]: https://dl.acm.org/citation.cfm?id=3076124
-[i3QL]: https://dl.acm.org/citation.cfm?id=2660242
 
-## Research Fields
+## Categories
 
-###  Programming Languages (PL)
-
-Optimizations
-
-- Constant propagation
-
-## Database (DB)
-
-### Traditional Databases
-
-### In-memory Databases
+- PL: Porgramming Languages
+- DB: Database
+    + TDDB: Traditional database
+    + IMDB: In-memory database
+- OP: Optimizations
+    + CP: Constant Propagation
+- Hybrid: CPU + GPU
+- HI: Hardware Innovation
 
 - http://www.sable.mcgill.ca/~hanfeng.c/horse/docs/research/mmdb/
 
-## Architectures
+## Related Papers
 
-### CPU
+Mitschke et al., [i3QL: Language-Integrated Live Data Views][i3QL], OOPSLA'14
 
-### GPU
+- Categories: PL, DB
 
-### Hybrid
+[i3QL]: https://dl.acm.org/citation.cfm?id=2660242
 
-### Hardware Innovation
 
 ## Researchers
 
@@ -55,7 +50,7 @@ Both
 
 - Chenglong Wang under [Rastislav Bodík](http://dblp.uni-trier.de/pers/hd/b/Bod=iacute=k:Rastislav): Program synthesis
 
-## Related
+## Others
 
 - dplyr, FlumeJava, Pig Latin
 
