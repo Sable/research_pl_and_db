@@ -29,10 +29,21 @@ MapD - Massive Parallel Database
 
 - Tags: DB, GPU
 - MapD overview [pdf][mapd-overview]
-- Root et al., [MapD: a GPU-powered big data analytics and visualization platform][mapd16]
+- Root et al., [MapD: a GPU-powered big data analytics and visualization platform][mapd16], 2016
 
 [mapd-overview]: http://www.smallake.kr/wp-content/uploads/2014/09/mapd_overview.pdf
 [mapd16]: https://dl.acm.org/citation.cfm?id=2927468
+
+Ocelot: A Hardware-Oblivious Database Engine
+
+- Tags: DB, GPU, MonetDB, OpenCL
+- [Homepage](https://bitbucket.org/msaecker/monetdb-opencl) (Last commit: 2016-05-11)
+
+GPU Ocelot: open-source dynamic JIT compilation framework for GPU compute applications
+
+- Tags: GPU, PTX
+- About GPU Ocelot: [link](http://gpuocelot.gatech.edu/about/)
+
 
 ## Researchers
 
