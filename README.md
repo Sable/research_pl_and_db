@@ -7,11 +7,12 @@ Papers you must read
 | :---------------- | :----------------------------------------------------------------------------- | :--------------------- |
 | Neumann           | Efficient compiling query plans for modern hardware                            | [PVLDB'12][Neumann12]  |
 | Dursun            | SiliconDB: rethinking DBMSs for modern heterogeneous co-processor environments | [DAMON'17][SiliconDB]  |
-| Mitschke          | i3QL: Language-Integrated Live Data Views                                      | [OOPSLA'14][i3QL]      |
+| Breb              | GPU-Accelerated Database Systems: Survey and Open Challenges                   | [TLSDKCS'14][GPUDB]    |
 | ...               | ...                                                                            | ...                    |
 
 [Neumann12]: https://dl.acm.org/citation.cfm?id=2002940
 [SiliconDB]: https://dl.acm.org/citation.cfm?id=3076124
+[GPUDB]: https://link.springer.com/chapter/10.1007/978-3-662-45761-0_1
 
 ## Related Papers
 
@@ -23,6 +24,15 @@ Mitschke et al., [i3QL: Language-Integrated Live Data Views][i3QL], OOPSLA'14
 
 [i3QL]: https://dl.acm.org/citation.cfm?id=2660242
 
+
+MapD - Massive Parallel Database
+
+- Tags: DB, GPU
+- MapD overview [pdf][mapd-overview]
+- Root et al., [MapD: a GPU-powered big data analytics and visualization platform][mapd16]
+
+[mapd-overview]: http://www.smallake.kr/wp-content/uploads/2014/09/mapd_overview.pdf
+[mapd16]: https://dl.acm.org/citation.cfm?id=2927468
 
 ## Researchers
 
