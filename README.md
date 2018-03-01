@@ -1,18 +1,24 @@
 
 ## Highlights
 
-Papers you must read
-
-| Authors (et al.)  | Title (Link to download)                                                       | Venue + Link           |
+| Authors (et al.)  | Title                                                                          | Venue (Link)           |
 | :---------------- | :----------------------------------------------------------------------------- | :--------------------- |
 | Neumann           | Efficient compiling query plans for modern hardware                            | [PVLDB'12][Neumann12]  |
 | Dursun            | SiliconDB: rethinking DBMSs for modern heterogeneous co-processor environments | [DAMON'17][SiliconDB]  |
 | Breb              | GPU-Accelerated Database Systems: Survey and Open Challenges                   | [TLSDKCS'14][GPUDB]    |
+| Pirk              | Voodoo - A Vector Algebra for Portable Database Performance on Modern Hardware | [VLDB'16][Voodoo]      |
+| Klonatos          | Building Efficient Query Engines in a High-Level Language                      | [VLDB'14][Klonatos14]  |
+| Stonebraker       | C-Store: A Column-oriented DBMS                                                | [VLDB'05][CStore]      |
+| Kemper            | HyPer: A hybrid OLTP&OLAP main memory database system based on ...             | [ICDE'11][Hyper11]     | 
 | ...               | ...                                                                            | ...                    |
 
 [Neumann12]: https://dl.acm.org/citation.cfm?id=2002940
 [SiliconDB]: https://dl.acm.org/citation.cfm?id=3076124
 [GPUDB]: https://link.springer.com/chapter/10.1007/978-3-662-45761-0_1
+[Voodoo]: http://www.vldb.org/pvldb/vol9/p1707-pirk.pdf
+[Klonatos14]: http://www.vldb.org/pvldb/vol7/p853-klonatos.pdf
+[CStore]: http://www.vldb.org/archives/website/2005/program/paper/thu/p553-stonebraker.pdf
+[Hyper11]: http://ieeexplore.ieee.org/document/5767867/
 
 ## Related Papers
 
