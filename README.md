@@ -22,30 +22,63 @@
 
 ## Related Papers
 
-**See [Convensions](convensions.md)**
+**See [tag convensions](convensions.md)**
 
-* Mitschke et al., [i3QL: Language-Integrated Live Data Views][i3QL], OOPSLA'14
+### Sable Lab
+
+1. Garg et al., Velociraptor: An Embedded Compiler Toolkit for Numerical Programs Targeting CPUs and GPUs
+    - Tags: CPU, GPU
+    - Keywords: VRIR, MATLAB, Python, JIT
+
+### Others
+
+1. Mitschke et al., [i3QL: Language-Integrated Live Data Views][i3QL], OOPSLA'14
     - Tags: PL, DB
 
 [i3QL]: https://dl.acm.org/citation.cfm?id=2660242
 
-* MapD - Massive Parallel Database
+1. MapD - Massive Parallel Database
     - Tags: DB, GPU
-    - MapD overview [pdf][mapd-overview]
     - Root et al., [MapD: a GPU-powered big data analytics and visualization platform][mapd16], 2016
 
-[mapd-overview]: http://www.smallake.kr/wp-content/uploads/2014/09/mapd_overview.pdf
 [mapd16]: https://dl.acm.org/citation.cfm?id=2927468
 
-* Ocelot: A Hardware-Oblivious Database Engine
+1. Ocelot: A Hardware-Oblivious Database Engine
     - Tags: DB, GPU, MonetDB, OpenCL
     - [Homepage](https://bitbucket.org/msaecker/monetdb-opencl) (Last commit: 2016-05-11)
 
-* GPU Ocelot: open-source dynamic JIT compilation framework for GPU compute applications
+1. GPU Ocelot: open-source dynamic JIT compilation framework for GPU compute applications
     - Tags: GPU, PTX
     - About GPU Ocelot: [link](http://gpuocelot.gatech.edu/about/)
 
-## Researchers
+1. Kohn et al., Adaptive Execution of Compiled Queries, available [online][Kohn]
+    - Tags: Hybrid
+    - Keywords: Neumann, TPC-H, PostGRE, MonetDB
+
+[Kohn]: https://db.in.tum.de/~leis/papers/adaptiveexecution.pdf
+
+1. Palkar et al., Weld: A Common Runtime for High Performance Data Analytics, CIDR' 17
+    - Tags: Common IR
+    - Keywords: cross functions, SQL, machine learning, graph analytics
+
+
+## The State-of-the-art Systems
+
+* MapD
+    - [Website][mapd-website] | [GitHub][mapd-github] | [Overview][mapd-overview] (Recommend)
+
+[mapd-website]: https://www.mapd.com/
+[mapd-overview]: http://www.smallake.kr/wp-content/uploads/2014/09/mapd_overview.pdf
+[mapd-github]: https://github.com/mapd/mapd-core
+
+* MoneDB
+    - [Website][monetdb-website] | [GitHub][monetdb-github] | [Embedded NumPy][monetdb-numpy]
+
+[monetdb-website]: https://www.monetdb.org/Home
+[monetdb-github]: https://github.com/MonetDB/MonetDB
+[monetdb-numpy]: https://www.monetdb.org/blog/embedded-pythonnumpy-monetdb
+
+## Researchers]: 
 
 DB-prone
 
