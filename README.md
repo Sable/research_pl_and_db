@@ -34,13 +34,11 @@
 
 1. Mitschke et al., [i3QL: Language-Integrated Live Data Views][i3QL], OOPSLA'14
     - Tags: PL, DB
-
 [i3QL]: https://dl.acm.org/citation.cfm?id=2660242
 
 1. MapD - Massive Parallel Database
     - Tags: DB, GPU
     - Root et al., [MapD: a GPU-powered big data analytics and visualization platform][mapd16], 2016
-
 [mapd16]: https://dl.acm.org/citation.cfm?id=2927468
 
 1. Ocelot: A Hardware-Oblivious Database Engine
@@ -54,7 +52,6 @@
 1. Kohn et al., Adaptive Execution of Compiled Queries, available [online][Kohn]
     - Tags: Hybrid
     - Keywords: Neumann, TPC-H, PostGRE, MonetDB
-
 [Kohn]: https://db.in.tum.de/~leis/papers/adaptiveexecution.pdf
 
 1. Palkar et al., Weld: A Common Runtime for High Performance Data Analytics, CIDR' 17
