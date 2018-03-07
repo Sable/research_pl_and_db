@@ -4,9 +4,9 @@
 | Authors (et al.)  | Title                                                                          | Venue (Link)           |
 | :---------------- | :----------------------------------------------------------------------------- | :--------------------- |
 | Neumann           | Efficient compiling query plans for modern hardware                            | [PVLDB'12][Neumann12]  |
-| Dursun            | SiliconDB: rethinking DBMSs for modern heterogeneous co-processor environments | [DAMON'17][SiliconDB]  |
+| Dursun            | SiliconDB: rethinking DBMSs for modern heterogeneous co-processor ...          | [DAMON'17][SiliconDB]  |
 | Breb              | GPU-Accelerated Database Systems: Survey and Open Challenges                   | [TLSDKCS'14][GPUDB]    |
-| Pirk              | Voodoo - A Vector Algebra for Portable Database Performance on Modern Hardware | [VLDB'16][Voodoo]      |
+| Pirk              | Voodoo - A Vector Algebra for Portable Database Performance on ...             | [VLDB'16][Voodoo]      |
 | Klonatos          | Building Efficient Query Engines in a High-Level Language                      | [VLDB'14][Klonatos14]  |
 | Stonebraker       | C-Store: A Column-oriented DBMS                                                | [VLDB'05][CStore]      |
 | Kemper            | HyPer: A hybrid OLTP&OLAP main memory database system based on ...             | [ICDE'11][Hyper11]     | 
@@ -24,32 +24,26 @@
 
 **See [Convensions](convensions.md)**
 
-Mitschke et al., [i3QL: Language-Integrated Live Data Views][i3QL], OOPSLA'14
-
-- Tags: PL, DB
+* Mitschke et al., [i3QL: Language-Integrated Live Data Views][i3QL], OOPSLA'14
+    - Tags: PL, DB
 
 [i3QL]: https://dl.acm.org/citation.cfm?id=2660242
 
-
-MapD - Massive Parallel Database
-
-- Tags: DB, GPU
-- MapD overview [pdf][mapd-overview]
-- Root et al., [MapD: a GPU-powered big data analytics and visualization platform][mapd16], 2016
+* MapD - Massive Parallel Database
+    - Tags: DB, GPU
+    - MapD overview [pdf][mapd-overview]
+    - Root et al., [MapD: a GPU-powered big data analytics and visualization platform][mapd16], 2016
 
 [mapd-overview]: http://www.smallake.kr/wp-content/uploads/2014/09/mapd_overview.pdf
 [mapd16]: https://dl.acm.org/citation.cfm?id=2927468
 
-Ocelot: A Hardware-Oblivious Database Engine
+* Ocelot: A Hardware-Oblivious Database Engine
+    - Tags: DB, GPU, MonetDB, OpenCL
+    - [Homepage](https://bitbucket.org/msaecker/monetdb-opencl) (Last commit: 2016-05-11)
 
-- Tags: DB, GPU, MonetDB, OpenCL
-- [Homepage](https://bitbucket.org/msaecker/monetdb-opencl) (Last commit: 2016-05-11)
-
-GPU Ocelot: open-source dynamic JIT compilation framework for GPU compute applications
-
-- Tags: GPU, PTX
-- About GPU Ocelot: [link](http://gpuocelot.gatech.edu/about/)
-
+* GPU Ocelot: open-source dynamic JIT compilation framework for GPU compute applications
+    - Tags: GPU, PTX
+    - About GPU Ocelot: [link](http://gpuocelot.gatech.edu/about/)
 
 ## Researchers
 
