@@ -30,7 +30,7 @@
     - Tags: CPU, GPU
     - Keywords: VRIR, MATLAB, Python, JIT
 
-### Others
+### Others (A long list)
 
 1. Mitschke et al., [i3QL: Language-Integrated Live Data Views][i3QL], OOPSLA'14
     - Tags: PL, DB
@@ -75,7 +75,7 @@
 [monetdb-github]: https://github.com/MonetDB/MonetDB
 [monetdb-numpy]: https://www.monetdb.org/blog/embedded-pythonnumpy-monetdb
 
-## Researchers]: 
+## Researchers
 
 DB-prone
 
