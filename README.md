@@ -93,4 +93,5 @@ Both
 ## Others
 
 - dplyr, FlumeJava, Pig Latin
+- [XLA](https://www.tensorflow.org/performance/xla/): a domain-specific compiler for linear algebra that optimizes TensorFlow computation
 
