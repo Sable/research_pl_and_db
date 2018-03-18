@@ -94,4 +94,9 @@ Both
 
 - dplyr, FlumeJava, Pig Latin
 - [XLA](https://www.tensorflow.org/performance/xla/): a domain-specific compiler for linear algebra that optimizes TensorFlow computation
+- OpenACC: [resources](https://www.openacc.org/resources)
+- CPU + FPGA: Intel HARP,
+        [Intel altera](https://www.altera.com/solutions/acceleration-hub/academia.html),
+        [Performance evaluation](https://www.cse.wustl.edu/~jain/cse567-17/ftp/harp/index.html),
+        [Xeon + FPGA.pdf](https://www.ece.cmu.edu/~calcm/carl/lib/exe/fetch.php?media=carl15-gupta.pdf)
 
