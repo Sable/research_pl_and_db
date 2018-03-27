@@ -54,10 +54,14 @@
     - Keywords: Neumann, TPC-H, PostGRE, MonetDB
 [Kohn]: https://db.in.tum.de/~leis/papers/adaptiveexecution.pdf
 
-1. Palkar et al., Weld: A Common Runtime for High Performance Data Analytics, CIDR' 17
+1. Palkar et al., Weld: A Common Runtime for High Performance Data Analytics, CIDR'17
     - Tags: Common IR
     - Keywords: cross functions, SQL, machine learning, graph analytics
 
+1. Wu et al., Red Fox: An Execution Environment for Relational Query Processing on GPUs, CGO'14 ([pdf][redfox])
+    - Tags: GPU
+    - Keywords: Relational Query, GPU
+[redfox](https://dl.acm.org/citation.cfm?id=2544166)
 
 ## The State-of-the-art Systems
 
